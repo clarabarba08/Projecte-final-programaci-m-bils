@@ -1,0 +1,34 @@
+[
+    {
+        "nom": "Projecte Uni",
+        "descripcio" : "Grup per un projecte de la carrera",
+        "foto" : "https://cdn-icons-png.flaticon.com/512/4792/4792929.png",
+        "membres" : [
+            "clarabarba",
+            "carlesencinas",
+            "lorenzoescardino",
+            "sergiorodriguez"
+          ]
+    },
+    {
+        "nom": "Amics Cole",
+        "descripcio" : "Grup d'amics de tota la vida de l'escola",
+        "foto" : "https://cdn-icons-png.flaticon.com/512/4792/4792929.png",
+        "membres" : [
+            "amic1",
+            "amic2",
+            "amic3"
+          ]
+    },
+    {
+        "nom": "Família",
+        "descripcio" : "Familia Barba al complet",
+        "foto" : "https://cdn-icons-png.flaticon.com/512/2770/2770519.png",
+        "membres" : [
+            "avi",
+            "avia",
+            "tiet",
+            "germana"
+          ]
+    }
+]

@@ -1,0 +1,300 @@
+[
+  {
+    "nom": "Espaguetis a la carbonara",
+    "tempsPreparacio": 30,
+    "persones": 4,
+    "calories": 600,
+    "valoracio": 3,
+    "ingredients": [
+      "200g espaguetis",
+      "2 ous",
+      "100g bacó",
+      "50g formatge parmesà",
+      "Pebre negre al gust"
+    ],
+    "pasAPas": [
+      "1. Bullir els espaguetis",
+      "2. Saltejar el bacó",
+      "3. Batre l'ou amb el formatge",
+      "4. Afegir els espaguetis a la paella",
+      "5. Afegir la barreja d'ou i formatge",
+      "6. Remenar fins que s'espessi",
+      "7. Salpebrar al gust"
+    ],
+    "imatge":
+        "https://imag.bonviveur.com/salsa-carbonara.jpg"
+  },
+  {
+    "nom": "Pa amb tomàquet",
+    "tempsPreparacio": 10,
+    "persones": 2,
+    "calories": 300,
+    "valoracio": 4,
+    "ingredients": [
+      "Pa de pagès",
+      "Tomàquet madur",
+      "Oli d'oliva",
+      "Sal al gust"
+    ],
+    "pasAPas": [
+      "1. Tallar el pa a làmines gruixudes",
+      "2. Tallar el tomàquet per la meitat",
+      "3. Fregar la meitat del tomàquet sobre el pa",
+      "4. Afegir oli d'oliva al gust",
+      "5. Afegir sal al gust"
+    ],
+    "imatge": "https://www.eltemps.cat/imatges/articles/1393806364_7288e855c3_k.jpg"
+  },
+  {
+    "nom": "Crema catalana",
+    "tempsPreparacio": 60,
+    "persones": 6,
+    "calories": 400,
+    "valoracio": 5,
+    "ingredients": [
+      "1 litre de llet",
+      "6 rovells d'ou",
+      "200g de sucre",
+      "1 polsim de canyella",
+      "Pell de llimona"
+    ],
+    "pasAPas": [
+      "1. Escalfar la llet amb la pell de llimona",
+      "2. Batre els rovells d'ou amb el sucre fins que blanquegin",
+      "3. Afegir la llet calenta als rovells batuts",
+      "4. Remenar bé la barreja",
+      "5. Coure a foc lent sense arribar a bullir",
+      "6. Quan comenci a espessir, retirar del foc",
+      "7. Deixar refredar i reposar a la nevera",
+      "8. Just abans de servir, cobrir amb sucre i cremar la superfície amb un ferro calent"
+    ],
+    "imatge": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/A13E0EAA-DFA7-4264-8B3B-79CCC77F9282/Derivates/B59B434D-7C1D-4EEB-9CE2-B21BD45533D9.jpg"
+  },
+  {
+    "nom": "Coca de recapte",
+    "tempsPreparacio": 90,
+    "persones": 8,
+    "calories": 500,
+    "valoracio": 4,
+    "ingredients": [
+      "500g de farina",
+      "1 sobre de llevat",
+      "1 culleradeta de sal",
+      "250ml d'aigua",
+      "100ml d'oli d'oliva",
+      "200g de tomàquet triturat",
+      "200g de pebrot escalivat",
+      "200g de botifarra negra",
+      "100g d'olives verdes",
+      "1 ceba"
+    ],
+    "pasAPas": [
+      "1. Barrejar la farina amb el llevat i la sal",
+      "2. Afegir l'aigua i l'oli d'oliva i amassar fins a obtenir una massa homogènia",
+      "3. Deixar reposar durant 30 minuts",
+      "4. Estendre la massa sobre una safata de forn",
+      "5. Cobrir amb el tomàquet triturat",
+      "6. Disposar el pebrot escalivat i la botifarra tallada a rodanxes",
+      "7. Afegir les olives i la ceba tallada a tires",
+      "8. Enfornar a 180 ºC durant 30-40 minuts fins que la massa estigui cuita i daurada"
+    ],
+    "imatge": "https://www.annarecetasfaciles.com/files/dsc02636.jpg"
+  },
+  {
+    "nom": "Torró de Xixona",
+    "tempsPreparacio": 180,
+    "persones": 12,
+    "calories": 350,
+    "valoracio": 4,
+    "ingredients": [
+      "400g d'ametlles torrades",
+      "250g de sucre",
+      "200g de mel",
+      "2 clares d'ou"
+    ],
+    "pasAPas": [
+      "1. Triturar les ametlles fins a obtenir una massa",
+      "2. Escalfar la mel i el sucre fins a obtenir un almívar",
+      "3. Afegir les clares d'ou a la massa de mel i sucre",
+      "4. Batre fins a obtenir una barreja homogènia",
+      "5. Afegir la massa d'ametlles i remenar bé",
+      "6. Posar en motlles de turró i pressionar bé",
+      "7. Deixar refredar i reposar unes hores abans de consumir"
+    ],
+    "imatge": "https://www.planellesdonat.com/wp-content/uploads/2013/10/torro_xixona_3-450x321.jpg"
+  },
+  {
+    "nom": "Escudella i carn d'olla",
+    "tempsPreparacio": 240,
+    "persones": 10,
+    "calories": 450,
+    "valoracio": 5,
+    "ingredients": [
+      "1 os de genoll de vedella",
+      "1 os de xai",
+      "1 botifarra negra",
+      "1 botifarra blanca",
+      "1 ceba",
+      "2 pastanagues",
+      "2 porros",
+      "1 col",
+      "1 nabo",
+      "200g de cansalada",
+      "350g de galets"
+    ],
+    "pasAPas": [
+      "1. Posar els ossos a bullir en una olla gran amb aigua",
+      "2. Espumar per eliminar les impureses",
+      "3. Afegir la ceba tallada a quarts, les pastanagues, els porros, el col tallat a trossos, el nabo i la cansalada",
+      "4. Salar i deixar cuit a foc lent durant 3 hores",
+      "5. Treure la carn de l'olla, tallar-la a trossos i reservar",
+      "6. Passar el brou per un colador i reservar",
+      "7. Afegir els galets a l'olla amb el brou",
+      "8. Coure els galets fins que estiguin tendres",
+      "9. Servir la sopa amb els galets i la carn tallada en un plat"
+    ],
+    "imatge": "https://megustacomersano.com/wp-content/uploads/2019/12/1.1-sopa-de-nadal-1-1000x1000-1.jpeg"
+  },
+  {
+    "nom": "Calçots amb salsa romesco",
+    "tempsPreparacio": 60,
+    "persones": 4,
+    "calories": 300,
+    "valoracio": 4,
+    "ingredients": [
+      "20 calçots",
+      "200g de tomàquet",
+      "100g d'ametlles",
+      "1 nyora",
+      "1 gra d'all",
+      "1 culleradeta de pebre vermell",
+      "1 culleradeta de pebre negre",
+      "1 culleradeta de comí",
+      "1 culleradeta de sal",
+      "1 culleradeta de vinagre",
+      "1 culleradeta d'oli d'oliva"
+    ],
+    "pasAPas": [
+      "1. Escaldar els tomàquets i pelar-los",
+      "2. Escaldar la nyora i treure'n la polpa",
+      "3. Torrar les ametlles",
+      "4. Triturar tots els ingredients fins a obtenir una salsa homogènia",
+      "5. Reservar la salsa romesco",
+      "6. Escaldar els calçots",
+      "7. Servir els calçots amb la salsa romesco"
+    ],
+    "imatge": "https://4.bp.blogspot.com/-ojuiOwuNQYk/T0FKiECoWHI/AAAAAAAACvQ/I_B-85Jqjys/s1600/Cal%25C3%25A7ots+al+horno+con+salsa+romesco+%25283%2529.JPG"
+  },
+  {
+    "nom": "Paella de marisc",
+    "tempsPreparacio": 45,
+    "persones": 6,
+    "calories": 700,
+    "valoracio": 4,
+    "ingredients": [
+      "400g de fideus per paella",
+      "8 gambes",
+      "8 musclos",
+      "8 cloïsses",
+      "200g de calamars tallats a rodanxes",
+      "200g de calamarsets",
+      "250g de tomàquet triturat",
+      "1 ceba",
+      "1 pebrot vermell",
+      "2 grans d'all",
+      "1 polsim de safrà",
+      "Oli d'oliva",
+      "Sal al gust"
+    ],
+    "pasAPas": [
+      "1. Sofregir l'all i la ceba picats en una paella amb oli d'oliva",
+      "2. Afegir el pebrot tallat a tires i deixar coure uns minuts",
+      "3. Afegir els calamars tallats, els calamarsets, les gambes pelades, els musclos i les cloïsses netes",
+      "4. Saltejar els mariscos fins que estiguin cuits",
+      "5. Afegir el tomàquet triturat i el safrà",
+      "6. Coure durant uns minuts a foc mitjà",
+      "7. Afegir els fideus i cobrir amb aigua o caldo",
+      "8. Remenar suau i deixar core fins que els fideus estiguin cuites i l'aigua s'hagi absorbit",
+      "9. Rectificar de sal si és necessari",
+      "10. Deixar reposar uns minuts abans de servir"
+    ],
+    "imatge":
+        "https://pescadoszaragozaextremadura.es/wp-content/uploads/2023/02/deliciosa-paella-de-mariscos-y-pescado.jpg"
+  },
+  {
+    "nom": "Crema de carbassa",
+    "tempsPreparacio": 40,
+    "persones": 6,
+    "calories": 200,
+    "valoracio": 5,
+    "ingredients": [
+      "1 kg de carbassa",
+      "1 ceba gran",
+      "2 grans d'all",
+      "1 patata",
+      "1 l de brou de verdura",
+      "Oli d'oliva",
+      "sal i pebre al gust"
+    ],
+    "pasAPas": [
+      "1. Tallem la carbassa i l'escalfejem al forn durant uns 15 minuts",
+      "2. En una cassola afegim l'oli i sofregim la ceba i l'all picat",
+      "3. Afegim la carbassa escalfada i la patata tallada a trossos",
+      "4. Cobrim amb el brou de verdura i deixem coure durant uns 20 minuts",
+      "5. Triturem la crema amb l'ajuda d'una batedora fins que quedi homogènia",
+      "6. Rectifiquem de sal i pebre al gust",
+      "7. Serveix la crema calenta"
+    ],
+    "imatge":
+        "https://www.veritas.es/wp-content/uploads/Crema-de-calabaza-y-zanahoria-1.jpg"
+  },
+  {
+    "nom": "Mel i mató",
+    "tempsPreparacio": 10,
+    "persones": 2,
+    "calories": 300,
+    "valoracio": 4,
+    "ingredients": [
+      "200g de mató",
+      "Mel al gust",
+      "Nous pelades i picades"
+    ],
+    "pasAPas": [
+      "1. Disposem el mató en un plat",
+      "2. Reguem amb mel al gust",
+      "3. Espolvorem amb les nous picades",
+      "4. Serveix l'amanida fresca"
+    ],
+    "imatge":
+        "https://www.petitchef.es/imgupl/recipe/mel-i-mato--242052p389840.jpg"
+  },
+  {
+    "nom": "Gazpacho",
+    "tempsPreparacio": 15,
+    "persones": 4,
+    "calories": 150,
+    "valoracio": 4,
+    "ingredients": [
+      "1 kg de tomàquets madurs",
+      "1 cogombre",
+      "1 pebrot verd",
+      "1 ceba",
+      "1 gra d'all",
+      "80 ml d'oli d'oliva",
+      "40 ml de vinagre de vi",
+      "Sal i pebre al gust"
+    ],
+    "pasAPas": [
+      "1. Pebrem i posem en remull el pa de pagès",
+      "2. Piquem el cogombre, el pebrot, la ceba i l'all",
+      "3. Tallem els tomàquets a trossos",
+      "4. Posem tots els ingredients en un recipient i afegim l'oli, el vinagre, sal i pebre",
+      "5. Triturem fins aconseguir una textura suau",
+      "6. Si queda massa espès, podem afegir una mica d'aigua",
+      "7. Deixem refredar a la nevera abans de servir"
+    ],
+    "imatge":
+        "https://www.conasi.eu/blog/wp-content/uploads/2016/06/gazpacho-1.jpg"
+  }
+  
+]
